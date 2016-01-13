@@ -1,0 +1,270 @@
+/* ADD YOUR STYLES HERE */
+.objectone {
+	display: inline-block;
+	padding-left: 10%;
+	padding-right: 5%;
+	}
+.objecttwo {
+	display: inline-block;
+	
+}
+.objectthree {
+	display: inline-block;
+	padding-left: 5%;
+	padding-right: 10%;
+}
+
+/*WORKS WITH DIFFERENT HTMLS*/
+
+.csstwo {
+	display: inline-block;
+	position: relative;
+	top:0;
+	left:0;
+	padding-right: 40px;
+	vertical-align: text-top;
+}
+
+/*VERTICAL CENTERING*/
+.verticalCentering {
+	padding-top: 25%;
+	padding-bottom: 25%;
+}
+
+/*VERTICAL CENTERING TWO*/
+
+.verticalCenteringTwo {
+	padding-top: 25%;
+	padding-bottom: 25%;
+}
+
+
+/*HORIZONTAL LIST -- WHYYYYYY*/
+.horizontalList li {
+    float: left;
+}
+
+.horizontalList a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+
+
+
+
+/*BUTTONS ONE*/
+
+.bigButton {
+	display: inline-block;
+	height: 40px;
+	width: 100px;
+	padding-right: 10px;
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 20px;
+	padding-left:10px;
+	margin-right: 0px;
+}
+
+.mediumButton {
+	display: inline-block;
+	height: 30px;
+	width: 100px;
+	padding-right: 10px;
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 15px;
+	padding-left: 10px;
+	margin-right:0px;
+}
+
+.smallButton {
+	display: inline-block;
+	height: 20px;
+	width: 30px;
+	padding-right: 10px;
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
+
+/*.moarRedButtons {
+	display: inline-block;
+	height: 30px;
+	width: 100px;
+	padding-right: 10px;
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 15px;
+	padding-left: 10px;
+	margin-right:0px;
+}*/
+
+.learn {
+	display: inline-block;
+	height: 30px;
+	width: 100px;
+	padding-right: 10px;
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 15px;
+	padding-left: 10px;
+	margin-right:0px;
+}
+
+/*PROBS CLEAN THIS UP*/
+.button {
+	display: inline-block;
+	padding: 14px 35px;
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	margin-right:0px;
+	border: none;
+	outline: none;
+}
+
+/*PROBS CLEAN THIS UP*/
+.submit {
+	display: inline-block;
+	padding: 14px 35px;
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	margin-right:0px;
+	border: none;
+	outline: none;	
+}
+
+
+/*NAVIGATION BAR*/
+
+.navBar {
+	display: inline-block;
+	background-color: red;
+	border-radius: 5px;
+	color: white;
+	list-style-type: none;
+	text-align: center;
+}
+
+.navBar li {
+    float: left;
+}
+
+.navBar a {
+    display: inline-block;
+    padding: 8px;
+    background-color: red;
+}
+
+/*IF YOU'RE NOT SPECIFIC, THE A:HOVER WILL WORK FOR ALL LINKS ON THIS PAGE*/
+.navBar a:hover {
+	background-color: gold;
+}
+
+
+/*PAGINATION*/
+/*NOW YOU NEED TO FIX THE SPAN SHIZNIT*/
+
+.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+}
+
+.pagination li {display: inline;}
+
+.pagination li a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/*OK THIS AIN'T WORKING-- LET'S FIGURE OUT WHY*/
+.pagination a:hover {
+	background-color: gold;
+}
+
+
+/*COMMENT STREAM--lots of floats and overflows*/
+/*THE TEXT IS SCREWED UP FIX THIS*/
+
+.bigBox img{
+	float: left;
+	padding-right:15px;
+	clear: left;
+	margin-bottom: 15px;
+	position: relative;
+}
+
+
+.bigBoxText{
+	display: inline-block;
+	position: absolute;
+	overflow: auto;
+}
+
+
+.specialBigBox img{
+	position: relative;
+	float: left;
+	padding-right: 15px;
+	clear: left;
+	margin-bottom: 15px;
+
+}
+
+.nestedBoxOne{
+	position: absolute;
+	display: inline-block;
+	margin-top: 230px;
+	padding-top: 15px;
+	margin-bottom: 30px;
+}
+
+.nestedBoxTwo {
+	position: absolute;
+	display: inline-block;
+	margin-top: 120px;
+	padding-top: 1-px,;
+}
+
+.nestedBoxText{
+	display: inline-block;
+	overflow: auto;
+	position: absolute;
+}
+
+
+/*TABS FOR DAYYYYYYS*/
+
+
+
+
+
+
